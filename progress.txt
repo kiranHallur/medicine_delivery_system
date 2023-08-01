@@ -1,0 +1,38 @@
+Currently : working orders.create.php
+
+[ok]*) Stock not removing
+[ok]*) Stock is stock closed not working
+[ok]*) Include price in stock
+*) Customer issue updating order
+*) Retailer update status of customer
+*) generate id for every order
+
+
+Order : Ordering items to other vendor
+
+Supply : Orders from customers
+
+MAIL_DRIVER=sendmail
+MAIL_HOST=smtp.googlemail.com
+MAIL_PORT=587
+MAIL_USERNAME=db.backup911@gmail.com
+MAIL_PASSWORD=uepkckkrrjwyxlob
+MAIL_ENCRYPTION=
+
+
+
+Working 
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.googlemail.com
+MAIL_PORT=465
+MAIL_USERNAME=db.backup911@gmail.com
+MAIL_PASSWORD=uepkckkrrjwyxlob
+MAIL_ENCRYPTION=ssl
+
+Working
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.googlemail.com
+MAIL_PORT=587
+MAIL_USERNAME=db.backup911@gmail.com
+MAIL_PASSWORD=uepkckkrrjwyxlob
+MAIL_ENCRYPTION=tls

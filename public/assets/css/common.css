@@ -1,0 +1,26 @@
+.required, .error{
+    color: red;
+}
+.disp_none{
+    display: none;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.m-b-0{
+    margin-bottom: 0px;
+}
+.img-box{
+    width: 250px;
+}
+
+.pos_center{
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.flex_bottom{
+    display: flex;
+    align-items: flex-end;
+}
